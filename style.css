@@ -24,3 +24,7 @@ strong {
     text-align: center;
 }
 
+.container__caixa {
+    align-items: center;
+}
+
