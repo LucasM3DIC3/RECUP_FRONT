@@ -1,7 +1,6 @@
 .container__principal {
     background-image: url("img/planodeFundo.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    align-items: center;  
-    text-align: center;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
