@@ -1,14 +1,13 @@
 .principal {
-    background-image: url(img/planodeFundo.jpg);
+    background-image: url(img/planodeFundo.jpg)
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;  
+    text-align: center;
+  }
+  
+  .container {
     height: 100vh;
     display: grid;
     grid-template-columns: 50% 50%;
-}
-
-.caixa {
-    align-items: center;
-}
-
-body {
-    background-image: url(img/planodeFundo.jpg);
-}
+  }
