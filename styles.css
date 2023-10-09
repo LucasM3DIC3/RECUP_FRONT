@@ -8,3 +8,7 @@
 .caixa {
     align-items: center;
 }
+
+body {
+    background-image: url(img/planodeFundo.jpg);
+}
