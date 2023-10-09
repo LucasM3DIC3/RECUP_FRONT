@@ -32,5 +32,6 @@ strong {
 
 .botao__secundario {
     background-color: transparent;
- border: 2px solid 
+ border: 2px solid;
+ font-weight: 28px; 
 }
